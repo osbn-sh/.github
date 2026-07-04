@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="./osbnsq.jpg" alt="ostadbun" width="200" />
+  <img src="./osbnsq.jpg" alt="ostadbun"  />
 </p>
 
 <h1 align="center">ostadbun</h1>
